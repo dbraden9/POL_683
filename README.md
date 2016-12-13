@@ -1,2 +1,0 @@
-# POL_683
-Code for POL 683 2016
